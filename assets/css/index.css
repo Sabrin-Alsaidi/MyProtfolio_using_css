@@ -1,0 +1,20 @@
+  body{
+    background-image:var(--bg-image);
+  }
+  .sec-1-Pt2 {
+    text-align: center;
+    margin-top: 17%;
+  }
+  .sec-1-Pt2 h1 {
+    font-size: 7em;
+    color: var(--text-primary-color);
+  }
+  .sec-1-Pt2 .body-contant {
+    font-size: 2em;
+    color: var(--text-secondary-color);
+  }
+  .sec-1-Pt2 .hireMe {
+    font-size: 0.9em;
+    color: var(--text-primary-color);
+    margin-top: 10%;
+  }/*# sourceMappingURL=index.css.map */
